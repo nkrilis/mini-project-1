@@ -62,29 +62,9 @@ img
   text-align: center;
 }
 
-.card 
-{
-  float: left;
-  padding-left: 10vw;
-  padding-right: 10vw;
-}
-
-/* Clear floats after the columns */
-.row:after 
-{
-  content: "";
-  display: table;
-  clear: both;
-}
-
 form 
 {
   display: inline-block;
-}
-
-.formlabel
-{
-  text-align: left;
 }
 
 /* Footer */
